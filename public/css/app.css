@@ -1,0 +1,11 @@
+.error.invalid-feedback {
+    color: red;
+}
+ul.form-error {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.form-error li{
+    color: red;
+}
